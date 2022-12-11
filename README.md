@@ -6,6 +6,10 @@
 * Function 2: In borrowing manga, the user will input his or her first name, last name,date borrow and the book details.
 * Function 3: In return , the user will input the correct name and will identify if the book was returned late or not and if late, the number of days the book returned date will display.
 
+## Video Presentation
+
+## Unified Model Language (UML)
+
 ## To run
 
 * Open the main.py to run the system.
