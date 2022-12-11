@@ -3,7 +3,7 @@ import Mangalist
 import dt
 import Borrow
 
-def start():
+def main():
     while(True):
         print("------------------------------------------------------")
         print("        Welcome to the Manga Management System     ")
@@ -34,4 +34,3 @@ def start():
                 print("Please enter a valid choice from 1-4")
         except ValueError:
             print("Please input as suggested.")
-start()
