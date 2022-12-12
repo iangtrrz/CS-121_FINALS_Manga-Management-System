@@ -19,7 +19,7 @@ def returnManga():
         error_count += 1
         if error_count == 3:
             print("Error occured atleast 3 times, the program will now end")
-            return
+            returnManga
 
         print("The Borrower name is incorrect")
         returnManga()
