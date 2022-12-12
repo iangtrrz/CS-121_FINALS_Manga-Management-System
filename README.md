@@ -1,6 +1,6 @@
 # CS-121_FINALS_Manga-Management-System
 
-* It makes the primary functions of displaying, borrowing, and returning mangas. This is designed to manage all of the functions of the system. It helps the user to maintain the data of the mangas that are borrowed and returned with their due dates.
+* It makes the primary functions of displaying, borrowing, and returning manga books. This is designed to manage all of the functions of the system. It helps the user to maintain the data of the mangas that are borrowed and returned with their due dates.
 
 ## Features
 
