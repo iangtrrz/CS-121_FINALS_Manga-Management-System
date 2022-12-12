@@ -1,5 +1,5 @@
 import utils.Return as Return
-import Mangalist
+import utils.Mangalist as Mangalist
 import utils.dt as dt
 import utils.Borrow as Borrow
 

@@ -1,5 +1,5 @@
 import utils.dt as dt
-import Mangalist
+import utils.Mangalist as Mangalist
 
 def borrowManga():
     success=False
