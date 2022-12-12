@@ -1,14 +1,15 @@
 # CS-121_FINALS_Manga-Management-System
 
-* It makes the primary functions of displaying, borrowing, and returning manga books. This is designed to manage all of the functions of the system. It helps the user to maintain the data of the mangas that are borrowed and returned with their due dates.
+* Manga Management System (MMS) has primary functions of displaying, borrowing, and returning mangas. This design is to manage all of the functions in the system. It helps the user to maintain the data of the mangas that are borrowed and returned with their due dates.
 
 ## Features
 
-* View Available Manga
-* Borrow Book
-* Return Book and Pay Fines
+* Allow users to view available Manga which include details: title of the manga, author, stock, and price.
+* Allow users to borrow book(s) where they need to enter their name and select preferred books to borrow.
+* Allow users to return the book(s) that they have borrowed and pay fines if needed.
 
 ## Video Presentation
+
 
 ## Unified Model Language (UML)
 ![uml](https://github.com/iangtrrz/CS-121_FINALS_Manga-Management-System/blob/main/Image/UML.png)
@@ -33,6 +34,6 @@
 * Gutierrez, Adrian G.
 * Manalo, Cheska N.
 * Panaligan, Kesha Mae R.
-* Victoria, Elaine M.
+* Victoria, Elaine M
 
 * Section: IT - 2101
