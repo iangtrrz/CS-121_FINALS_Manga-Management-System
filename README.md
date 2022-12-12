@@ -14,7 +14,7 @@
 
 ## To run
 
-* Open the Driver.py to run the system.
+* Open the Main.py to run the system.
 
 ## Self-Assessment
 
