@@ -11,6 +11,7 @@
 ## Video Presentation
 
 ## Unified Model Language (UML)
+![uml](https://github.com/iangtrrz/CS-121_FINALS_Manga-Management-System)
 
 ## To run
 
