@@ -8,7 +8,7 @@
 * Allow users to return the book(s) that they have borrowed and pay fines if needed.
 
 ## Video Presentation:
-https://youtu.be/LCprNRpUBRg
+[![Manga Management System VIDEO] (link ng ss ng vid)](https://youtu.be/LCprNRpUBRg)
 
 ## Unified Model Language (UML):
 ![uml](https://github.com/iangtrrz/CS-121_FINALS_Manga-Management-System/blob/main/Image/UML.png)
