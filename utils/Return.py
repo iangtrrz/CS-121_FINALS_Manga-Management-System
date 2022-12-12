@@ -1,5 +1,5 @@
 import Mangalist
-import dt
+import utils.dt as dt
 def returnManga():
     name=input("Enter name of Borrower: ")
     a="Borrow-"+name+".txt"

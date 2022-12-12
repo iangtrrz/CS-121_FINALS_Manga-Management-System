@@ -1,4 +1,4 @@
-import dt
+import utils.dt as dt
 import Mangalist
 
 def borrowManga():

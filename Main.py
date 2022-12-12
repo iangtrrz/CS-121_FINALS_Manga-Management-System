@@ -1,7 +1,7 @@
-import Return
+import utils.Return as Return
 import Mangalist
-import dt
-import Borrow
+import utils.dt as dt
+import utils.Borrow as Borrow
 
 def main():
     while(True):
