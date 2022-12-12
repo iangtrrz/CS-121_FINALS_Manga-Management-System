@@ -33,6 +33,6 @@
 * Gutierrez, Adrian G.
 * Manalo, Cheska N.
 * Panaligan, Kesha Mae R.
-* Victoria, Elaine M
+* Victoria, Elaine M.
 
 * Section: IT - 2101
